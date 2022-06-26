@@ -1,0 +1,13 @@
+.character{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 3rem auto;
+}
+
+.characterLeft{
+    width: 50%;
+}
+
+.chracterEpisode{
+    width: 50%;
+}

@@ -1,0 +1,16 @@
+.locationName{
+    width:50%;
+    border: 2px solid black;
+    text-align: center;
+    padding: 2rem 2rem;
+    font-size: 20px;
+}
+
+.inputClass{
+    width: 20rem;
+    margin: 3rem 3rem;
+}
+
+.buttonClass{
+    width: 11rem;
+}
